@@ -17,7 +17,7 @@ body {
   border: 0.1rem solid white;
   display: inline-block;
   width: 730px;
-  height: 165px;
+  height: 115px;
   position: relative;
   margin-left: 20px;
 }
