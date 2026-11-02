@@ -683,27 +683,6 @@ body {
   top: 852.8px;
   left: 1758px;
 }
-.R31 {
-  top: 912.8px;
-  left: 1758px;
-}
-.R32 {
-  top: 942.8px;
-  left: 1758px;
-}
-.R33 {
-  top: 972.8px;
-  left: 1758px;
-}
-.R34 {
-  top: 1002.8px;
-  left: 1758px;
-}
-.R35 {
-  top: 1032.8px;
-  left: 1758px;
-  margin-bottom: 50px;
-}
 .tab_item:hover {
   opacity: 1;
 }
@@ -771,12 +750,6 @@ input[name="tab_item"] {
 #outback2fb:checked ~ #outback2fb,
 #outback1fa:checked ~ #outback1fa,
 #outback1fb:checked ~ #outback1fb,
-#plane3fa:checked ~ #plane3fa,
-#plane3fb:checked ~ #plane3fb,
-#plane2fa:checked ~ #plane2fa,
-#plane2fb:checked ~ #plane2fb,
-#plane1fa:checked ~ #plane1fa,
-#plane1fb:checked ~ #plane1fb,
 #skyscraper2f:checked ~ #skyscraper2f,
 #skyscraper1f:checked ~ #skyscraper1f,
 #themepark2f:checked ~ #themepark2f,
