@@ -25,7 +25,7 @@ body {
   border: 0.1rem solid white;
   display: block;
   width: 730px;
-  height: 165px;
+  height: 115px;
   position: relative;
   margin-top: 20px;
   margin-left: 20px;
