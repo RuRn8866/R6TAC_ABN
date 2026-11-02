@@ -1116,27 +1116,3 @@ label {
   top: 65px;
   left: 685px;
 }
-#grim {
-  top: 115px;
-  left: 10px;
-}
-#brava {
-  top: 115px;
-  left: 55px;
-}
-#ram {
-  top: 115px;
-  left: 100px;
-}
-#deimos {
-  top: 115px;
-  left: 145px;
-}
-#rauora {
-  top: 115px;
-  left: 190px;
-}
-#snake {
-  top: 115px;
-  left: 235px;
-}
