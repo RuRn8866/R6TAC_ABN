@@ -17,7 +17,7 @@ body {
   border: 0.1rem solid white;
   display: inline-block;
   width: 730px;
-  height: 115px;
+  height: 165px;
   position: relative;
   margin-left: 20px;
 }
@@ -986,6 +986,26 @@ label {
 #azami {
   top: 65px;
   left: 685px;
+}
+#solis {
+  top: 115px;
+  left: 10px;
+}
+#fenril {
+  top: 115px;
+  left: 55px;
+}
+#tubarao {
+  top: 115px;
+  left: 100px;
+}
+#scops {
+  top: 115px;
+  left: 145px;
+}
+#noor {
+  top: 115px;
+  left: 190px;
 }
 /* 攻撃側オペレーターアイコン位置決め */
 #sledge {
