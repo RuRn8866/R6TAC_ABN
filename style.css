@@ -785,12 +785,6 @@ input[name="tab_item"] {
 #tower2fb:checked ~ #tower2fb,
 #tower1fa:checked ~ #tower1fa,
 #tower1fb:checked ~ #tower1fb,
-#yacht4f:checked ~ #yacht4f,
-#yacht3f:checked ~ #yacht3f,
-#yacht2fa:checked ~ #yacht2fa,
-#yacht2fb:checked ~ #yacht2fb,
-#yacht1fa:checked ~ #yacht1fa,
-#yacht1fb:checked ~ #yacht1fb,
 #ep2f:checked ~ #ep2f,
 #ep1f:checked ~ #ep1f {
   display: block;
