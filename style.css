@@ -774,8 +774,8 @@ input[name="tab_item"] {
 #agitob1f:checked ~ #agitob1f,
 #tower2fa:checked ~ #tower2fa,
 #tower2fb:checked ~ #tower2fb,
-#tower1fa:checked ~ #tower1fa,
 #mac2f:checked ~ #mac2f,
+#mac1f:checked ~ #mac1f,
 #ep2f:checked ~ #ep2f,
 #ep1f:checked ~ #ep1f {
   display: block;
