@@ -683,6 +683,18 @@ body {
   top: 852.8px;
   left: 1758px;
 }
+.R28 {
+  top: 882.8px;
+  left: 1758px;
+}
+.R29 {
+  top: 912.8px;
+  left: 1758px;
+}
+.R30 {
+  top: 942.8px;
+  left: 1758px;
+}
 .tab_item:hover {
   opacity: 1;
 }
@@ -754,6 +766,9 @@ input[name="tab_item"] {
 #skyscraper1f:checked ~ #skyscraper1f,
 #themepark2f:checked ~ #themepark2f,
 #themepark1f:checked ~ #themepark1f,
+#agito2f:checked ~ #agito2f,
+#agito1f:checked ~ #agito1f,
+#agitob1f:checked ~ #agitob1f,
 #tower2fa:checked ~ #tower2fa,
 #tower2fb:checked ~ #tower2fb,
 #tower1fa:checked ~ #tower1fa,
